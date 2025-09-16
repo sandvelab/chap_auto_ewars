@@ -1,0 +1,8 @@
+example_data/model
+example_data
+ex_data_fails
+
+example_data/predictions.csv
+model
+*.csv
+*.geojson
